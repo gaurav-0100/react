@@ -1,0 +1,16 @@
+{
+  "laps": [
+    {
+      "id": 2,
+      "duration": 3,
+      "start": 3,
+      "end": 6
+    },
+    {
+      "id": 3,
+      "duration": -2,
+      "start": 6,
+      "end": 4
+    }
+  ]
+}
